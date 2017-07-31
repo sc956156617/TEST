@@ -1,0 +1,13 @@
+//
+//  BandsListViewController.h
+//  汽车配件
+//
+//  Created by cb on 2017/4/24.
+//  Copyright © 2017年 lxw. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface BandsListViewController : UIViewController
+
+@end

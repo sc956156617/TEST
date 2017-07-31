@@ -1,0 +1,50 @@
+//
+//  SCPrefixHeader.pch
+//  MagazineYZZY
+//
+//  Created by cb on 2017/6/12.
+//  Copyright © 2017年 SC. All rights reserved.
+//
+
+#ifndef SCPrefixHeader_pch
+#define SCPrefixHeader_pch
+
+
+//thirdParty
+
+#import "SCHeader.h"
+#import "SCApi.h"
+#import "SCNotice.h"
+#import "SCTheThirdParty.h"
+#import "SCUI.h"
+
+#import "CCPNetworking.h"
+#import "JZLNetworkingTool.h"
+
+
+
+#import "MJExtension.h"
+#import "UIView+Extension.h"
+#import <MBProgressHUD.h>
+#import "SCProgressHUD.h"
+#import "SCProgressHUD+ADD.h"  //  指示器
+
+
+#import "NerdyUI.h"    //快速UI
+#import "MLMSegmentManager.h" //分页控制器
+#import "CocoaLumberjack.h"  //最优日志框架
+
+#import "BaseViewController.h"
+#import "SCNavigationViewController.h"
+
+//#import "UIViewController+HUD.h"
+#import "UIColor+SCExtension.h"
+#import "SCColorTypeTools.h"
+#import "UIImage+SCExtension.h"
+#import "UIViewController+HUD.h"
+#import "NSArray+Log.h"
+#import "UINavigationController+WXSTransition.h"  //Transition
+#import "UIBarButtonItem+Item.h"
+#import <Masonry.h>
+#import <UIImageView+WebCache.h>
+#endif /* SCPrefixHeader_pch */

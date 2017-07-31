@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4920A94EF999BFBFCC3E3F7E68B680D6DD9F9E9F" : 9223372036854775807,
+    "4244D69ACEE80E1099B74C20C2C90DEF9392C0EE" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "08B2AD43-AFA9-494A-9448-944ABA01AF70",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4920A94EF999BFBFCC3E3F7E68B680D6DD9F9E9F" : "%E5%BC%95%E9%87%8D%E8%87%B4%E8%BF%9C%E5%B7%A5%E4%BD%9C%E5%8C%BA%E9%97%B4\/%E6%B1%BD%E9%85%8D\/%E4%BB%A3%E7%A0%81\/QiPeiMagazine\/",
+    "4244D69ACEE80E1099B74C20C2C90DEF9392C0EE" : "dome\/%E6%8C%89%E9%92%AE\/3D%E7%90%83%E5%BD%A2%E6%A0%87%E7%AD%BEXLSphereView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SHENCHAO",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SHENCHAO.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/williamxiaolong\/XLSphereView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4244D69ACEE80E1099B74C20C2C90DEF9392C0EE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/10.10.1.11:29418\/QiPeiMagazine.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4920A94EF999BFBFCC3E3F7E68B680D6DD9F9E9F"
+    }
+  ]
+}
